@@ -1,6 +1,6 @@
 #  SecureShop - Actividad 1
 
-### nombres:<br> 
+### Nombres:<br> 
 Chalacan Dennison<br> 
 Llumiquinga Jerson<br>
 Sandoval Fernando<br>
